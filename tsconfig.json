@@ -6,7 +6,8 @@
     "lib": ["es5","es6"],
     "baseUrl": ".",
     "outDir": "dist",
-    "paths": {}
+    "paths": {},
+    "declaration": true
   },
   "include": [
     "src/**/*"
